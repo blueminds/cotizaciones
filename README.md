@@ -1,6 +1,6 @@
-## cotizaciones
+# cotizaciones
 
-##requerimientos
+# Requerimientos
 
-#1 python 2.7
-#2 Django 1.8.2
+# 1. Python 2.7
+# 2. Django 1.8.2
